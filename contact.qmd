@@ -2,6 +2,6 @@
 title: "Contact"
 ---
 
-The best way to reach out to the project team is via email. The project team's email address is:
+The best way to reach out to the project team is via email. You can contact each member directly or contact the project lead Professor Zuduo Zheng via the email below:
 
-![](my_email.png){width="300"}
+![](my_email.png){width="177"}

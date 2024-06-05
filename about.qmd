@@ -4,6 +4,14 @@ title: "About"
 
 This is the website for the Discovery project "**Safe and efficient eco-driving using connected and automated vehicles**" sponsored by **the Australian Research Council**.
 
-Some basic information about this project:
+![**Project summary**](greentraffic.jpg){fig-align="center" width="213"}
 
-This project will be running from July 2024 to July 2028.
+This project aims to solve the paradox of trading off liveability for mobility by simultaneously reducing traffic congestion, vehicle energy consumption, and emission. This project is expected to generate fundamental knowledge and powerful tools on utilising connected and automated vehicles to help individuals become green drivers. Expected outcomes include ground-breaking models capable of holistically optimising traffic efficiency, energy consumption and emission, and innovative control strategies and policies that focus on energy efficiency and environment protection. This research will bring a wide range of substantial national benefits related to mobility, public health, environmental protection, and energy security.
+
+![**Project duration**](timeline.jpg "Project duration"){fig-align="center" width="196"}
+
+This project will approximately start in October 2024, and finish by the end of 2028.
+
+![**Project budget**](Budget.jpg){fig-align="center" width="213"}
+
+The budget from ARC is \$687,578 plus in-kind contributions from University of Queensland, University of Sydney, Queensland University of Technology, Virginia Tech and MIT.
