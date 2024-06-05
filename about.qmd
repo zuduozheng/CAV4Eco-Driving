@@ -5,3 +5,5 @@ title: "About"
 This is the website for the Discovery project "**Safe and efficient eco-driving using connected and automated vehicles**" sponsored by **the Australian Research Council**.
 
 Some basic information about this project:
+
+This project will be running from July 2024 to July 2028.
