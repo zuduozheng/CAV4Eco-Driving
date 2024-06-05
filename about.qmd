@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This is the website for the Discovery project "**Safe and efficient eco-driving using connected and automated vehicles**" sponsored by **the Australian Research Council**.
+
+Some basic information about this project:

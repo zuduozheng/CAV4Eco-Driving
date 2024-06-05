@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+The best way to reach out to the project team is via email. The project team's email address is:
+
+![](my_email.png){width="300"}
