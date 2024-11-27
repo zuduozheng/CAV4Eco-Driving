@@ -1,7 +1,12 @@
 ---
-title: "Safe and efficient eco-driving using connected and automated vehicles"
+title: "Safe and Efficient Eco-driving Using Connected and Automated Vehicles"
 ---
 
-This is the website for the Discovery project "Safe and efficient eco-driving using connected and automated vehicles" sponsored by the Australian Research Council.
+Welcome to the online home for the Discovery project "**Safe and Efficient Eco-driving Using Connected and Automated Vehicles**" sponsored by the Australian Research Council.
 
-![](paradox_of_liveability_and_mobility.png)
+```{r echo=FALSE}
+#| fig-align: left
+#| fig-width: 388
+#| fig-cap: "**Paradox of Liveability and Mobility**"
+knitr::include_graphics("paradox_of_liveability_and_mobility.png")
+```

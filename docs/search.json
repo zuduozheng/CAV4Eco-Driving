@@ -2,29 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Safe and efficient eco-driving using connected and automated vehicles",
+    "title": "Safe and Efficient Eco-driving Using Connected and Automated Vehicles",
     "section": "",
-    "text": "This is the website for the Discovery project “Safe and efficient eco-driving using connected and automated vehicles” sponsored by the Australian Research Council.\n\n\n\nParadox of liveability and mobility"
+    "text": "Welcome to the online home for the Discovery project “Safe and Efficient Eco-driving Using Connected and Automated Vehicles” sponsored by the Australian Research Council.\n\n\n\n\n\nParadox of Liveability and Mobility"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is the website for the Discovery project “Safe and efficient eco-driving using connected and automated vehicles” sponsored by the Australian Research Council.\n\n\n\nProject summary\n\n\nThis project aims to solve the paradox of trading off liveability for mobility by simultaneously reducing traffic congestion, vehicle energy consumption, and emission. This project is expected to generate fundamental knowledge and powerful tools on utilising connected and automated vehicles to help individuals become green drivers. Expected outcomes include ground-breaking models capable of holistically optimising traffic efficiency, energy consumption and emission, and innovative control strategies and policies that focus on energy efficiency and environment protection. This research will bring a wide range of substantial national benefits related to mobility, public health, environmental protection, and energy security.\n\n\n\nProject duration\n\n\nThis project will approximately start in October 2024, and finish by the end of 2028.\n\n\n\nProject budget\n\n\nThe budget from ARC is $687,578 plus in-kind contributions from University of Queensland, University of Sydney, Queensland University of Technology, Virginia Tech and MIT."
+    "text": "Project summary\n\n\nThis project aims to solve the paradox of trading off liveability for mobility by simultaneously reducing traffic congestion, vehicle energy consumption, and emission. This project is expected to generate fundamental knowledge and powerful tools on utilising connected and automated vehicles to help individuals become green drivers. Expected outcomes include ground-breaking models capable of holistically optimising traffic efficiency, energy consumption and emission, and innovative control strategies and policies that focus on energy efficiency and environment protection. This research will bring a wide range of substantial national benefits related to mobility, public health, environmental protection, and energy security.\n\n\n\nProject duration\n\n\nThis project started in October 2024, and is expected to finish by the end of 2028.\n\n\n\nProject budget\n\n\nThe budget from ARC is $687,578 plus in-kind contributions from University of Queensland, University of Sydney, Queensland University of Technology, Virginia Tech and MIT.\nThis project is an international collaboration involving five universities, including\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe are grateful for the generous support from the Australian Research Council to this project."
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "The project team includes:\n\nChief Investigators\n\n\n\nProfessor Zuduo Zheng, School of Civil Engineering, the University of Queensland\n\n\n\nAssociate Professor Jiwon Kim, School of Civil Engineering, the University of Queensland;\n\n\n\nProfessor Michiel Bliemer, The University of Sydney Business School\n\n\n\nProfessor Lidia Morawska, School of Earth & Atmospheric Sciences, Queensland University of Technology\n\n\n\n\nPartner Investigator\n\n\n\nSamuel Reynolds Pritchard Professor Hesham Rakha, Department of Civil and Environmental Engineering, VirginidVirginia Polytechnic Institute and State University\n\n\n\nGilbert W. Winslow Career Development Assistant Professor Cathy Wu, LIDS, CEE, IDSS, Massachusetts Institute of Technology"
+    "text": "The project team includes:\n\nChief Investigators\n\n\n\nProfessor Zuduo Zheng, School of Civil Engineering, the University of Queensland\n\n\n\nAssociate Professor Jiwon Kim, School of Civil Engineering, the University of Queensland;\n\n\n\nProfessor Michiel Bliemer, The University of Sydney Business School\n\n\n\nProfessor Lidia Morawska, School of Earth & Atmospheric Sciences, Queensland University of Technology\n\n\n\n\nPartner Investigators\n\n\n\nSamuel Reynolds Pritchard Professor Hesham Rakha, Department of Civil and Environmental Engineering, VirginidVirginia Polytechnic Institute and State University\n\n\n\nThomas D. and Virginia W Cabot Career Development Associate Professor Cathy Wu, LIDS, CEE, IDSS, Massachusetts Institute of Technology\n\n\n\n\nKey Research Personnel\n\n\n\nMr Jiahao Zhang, PhD Scholar. School of Civil Engineering, the University of Queensland.\n\n\n\n\n\nMore to add."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "The best way to reach out to the project team is via email. The project team’s email address is:"
+    "text": "The best way to reach out to the project team is via email. You can contact each member directly or contact the project lead Professor Zuduo Zheng via the email below:"
+  },
+  {
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Updates",
+    "section": "",
+    "text": "We are seeking three additional PhD students with full scholarship to join this project: one based at UQ focusing on developing CAV-oriented control strategies using the state-of-the-art deep learning methods, one at USYD focusing on developing and testing control strategies for traffic mixed with CAV, such as real-time speed harmonisation, cooperative lane changing and ramp metering, and long-distance eco-driving, and one at QUT focusing on developing a sustainability-oriented car following model by accounting for energy consumption and emissions. The UQ position is open exclusively to domestic students, while the positions at USYD and QUT have no such restrictions. For more information about the PhD position at UQ, please contact either Prof Zuduo Zheng or A/Prof Jiwon Kim, for the PhD position at USYD, please contact Prof Michiel Bliemer, and for the PhD position at QUT, please contact Prof Lidia Morawska.\nThe first PhD scholar Mr Jiahao Zhang who will work on this DP project has joined the team.Jiahao earned his master’s degree from Zhejiang University, widely recognized as one of the top three universities in China, earlier this year. He completed his bachelor’s degree in 2021 through the Joint Bachelor Program between Beijing Jiaotong University and TU Delft. Jiahao is a talented young researcher with some solid research experience and a nice publication track record. He joined UQ in October, and his thesis will be directly based on our DP project. Welcome on board Jiahao, and we look forward to working with you on this exciting project."
   }
 ]

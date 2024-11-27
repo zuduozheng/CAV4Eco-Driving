@@ -6,16 +6,24 @@ The project team includes:
 
 -   **Chief Investigators**
 
-    |                                                                                                                                                                |                                         |
-    |----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-    | Professor [Zuduo Zheng](http://www.connectedandautonomoustransport.com/dr-zhengs-research.html), School of Civil Engineering, the University of Queensland     | ![](ZuduoZheng1_small.jpg){width="180"} |
-    | Associate Professor [Jiwon Kim](https://researchers.uq.edu.au/researcher/10269), School of Civil Engineering, the University of Queensland;                    | ![](jiwon.jpeg){width="180"}            |
-    | Professor [Michiel Bliemer](https://www.sydney.edu.au/business/about/our-people/academic-staff/michiel-bliemer.html), The University of Sydney Business School | ![](Michiel.jpg){width="180"}           |
-    | Professor [Lidia Morawska](https://en.wikipedia.org/wiki/Lidia_Morawska), School of Earth & Atmospheric Sciences, Queensland University of Technology          | ![](Lidia.jpg){width="180"}             |
+    |                                                                                                                                                                |                                           |
+    |-------------------------------------------------------|-----------------|
+    | Professor [Zuduo Zheng](http://www.connectedandautonomoustransport.com/dr-zhengs-research.html), School of Civil Engineering, the University of Queensland     | ![](ZuduoZheng1_small.jpg){width="180"}   |
+    | Associate Professor [Jiwon Kim](https://researchers.uq.edu.au/researcher/10269), School of Civil Engineering, the University of Queensland;                    | ![](jiwon.jpeg){width="180"}              |
+    | Professor [Michiel Bliemer](https://www.sydney.edu.au/business/about/our-people/academic-staff/michiel-bliemer.html), The University of Sydney Business School | ![](Michiel.jpg){width="180"}             |
+    | Professor [Lidia Morawska](https://en.wikipedia.org/wiki/Lidia_Morawska), School of Earth & Atmospheric Sciences, Queensland University of Technology          | ![](Lidia.jpg){width="180" height="auto"} |
 
--   **Partner Investigator**
+-   **Partner Investigators**
 
-    |                                                                                                                                                                                                                  |                                           |
-    |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-    | Samuel Reynolds Pritchard Professor [Hesham Rakha](https://cee.vt.edu/people/faculty/rakha.html), Department of Civil and Environmental Engineering, VirginidVirginia Polytechnic Institute and State University | ![](Hesham.jpg){width="160" height="193"} |
-    | Gilbert W. Winslow Career Development Assistant Professor [Cathy Wu](http://www.wucathy.com/blog/), LIDS, CEE, IDSS, Massachusetts Institute of Technology                                                       | ![](Cathy.jpg){width="157"}               |
+    |                                                                                                                                                                                                                  |                                              |
+    |--------------------------------------------------------|----------------|
+    | Samuel Reynolds Pritchard Professor [Hesham Rakha](https://cee.vt.edu/people/faculty/rakha.html), Department of Civil and Environmental Engineering, VirginidVirginia Polytechnic Institute and State University | ![](Hesham3.jfif){width="180" height="auto"} |
+    | Thomas D. and Virginia W Cabot Career Development Associate Professor [Cathy Wu](http://www.wucathy.com/blog/), LIDS, CEE, IDSS, Massachusetts Institute of Technology                                           | ![](Cathy3.jfif){width="180" height="auto"}  |
+
+-   **Key Research Personnel**
+
+    |                                                                                                                                               |                 |
+    |----------------------------------------------------------|--------------|
+    | Mr [Jiahao Zhang](https://civil.uq.edu.au/profile/5288/jiahao-zhang), PhD Scholar. School of Civil Engineering, the University of Queensland. | ![](Jiahao.JPG) |
+
+More to add.

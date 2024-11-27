@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "CAV4ECODRIVING"
+  title: "CAV4ECO-DRIVING"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - updates.qmd
       - team.qmd
       - contact.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
