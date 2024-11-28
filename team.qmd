@@ -17,7 +17,7 @@ The project team includes:
 
     |                                                                                                                                                                                                                  |                                              |
     |--------------------------------------------------------|----------------|
-    | Samuel Reynolds Pritchard Professor [Hesham Rakha](https://cee.vt.edu/people/faculty/rakha.html), Department of Civil and Environmental Engineering, VirginidVirginia Polytechnic Institute and State University | ![](Hesham3.jfif){width="180" height="auto"} |
+    | Samuel Reynolds Pritchard Professor [Hesham Rakha](https://cee.vt.edu/people/faculty/rakha.html), Department of Civil and Environmental Engineering, Virginia Polytechnic Institute and State University | ![](Hesham3.jfif){width="180" height="auto"} |
     | Thomas D. and Virginia W Cabot Career Development Associate Professor [Cathy Wu](http://www.wucathy.com/blog/), LIDS, CEE, IDSS, Massachusetts Institute of Technology                                           | ![](Cathy3.jfif){width="180" height="auto"}  |
 
 -   **Key Research Personnel**
