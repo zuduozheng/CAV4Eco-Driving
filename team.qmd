@@ -7,7 +7,7 @@ The project team includes:
 -   **Chief Investigators**
 
     |                                                                                                                                                                |                                           |
-    |-------------------------------------------------------|-----------------|
+    |---------------------------------------------------|---------------------|
     | Professor [Zuduo Zheng](http://www.connectedandautonomoustransport.com/dr-zhengs-research.html), School of Civil Engineering, the University of Queensland     | ![](ZuduoZheng1_small.jpg){width="180"}   |
     | Associate Professor [Jiwon Kim](https://researchers.uq.edu.au/researcher/10269), School of Civil Engineering, the University of Queensland;                    | ![](jiwon.jpeg){width="180"}              |
     | Professor [Michiel Bliemer](https://www.sydney.edu.au/business/about/our-people/academic-staff/michiel-bliemer.html), The University of Sydney Business School | ![](Michiel.jpg){width="180"}             |
@@ -15,15 +15,17 @@ The project team includes:
 
 -   **Partner Investigators**
 
-    |                                                                                                                                                                                                                  |                                              |
-    |--------------------------------------------------------|----------------|
+    |                                                                                                                                                                                                          |                                              |
+    |---------------------------------------------------|---------------------|
     | Samuel Reynolds Pritchard Professor [Hesham Rakha](https://cee.vt.edu/people/faculty/rakha.html), Department of Civil and Environmental Engineering, Virginia Polytechnic Institute and State University | ![](Hesham3.jfif){width="180" height="auto"} |
-    | Thomas D. and Virginia W Cabot Career Development Associate Professor [Cathy Wu](http://www.wucathy.com/blog/), LIDS, CEE, IDSS, Massachusetts Institute of Technology                                           | ![](Cathy3.jfif){width="180" height="auto"}  |
+    | Thomas D. and Virginia W Cabot Career Development Associate Professor [Cathy Wu](http://www.wucathy.com/blog/), LIDS, CEE, IDSS, Massachusetts Institute of Technology                                   | ![](Cathy3.jfif){width="180" height="auto"}  |
 
 -   **Key Research Personnel**
 
-    |                                                                                                                                               |                 |
-    |----------------------------------------------------------|--------------|
-    | Mr [Jiahao Zhang](https://civil.uq.edu.au/profile/5288/jiahao-zhang), PhD Scholar. School of Civil Engineering, the University of Queensland. | ![](Jiahao.JPG) |
+    |                                                                                                                                                                                            |                             |
+    |----------------------------------------------------|--------------------|
+    | Dr [Rohan Jayaratne](https://www.qut.edu.au/about/our-people/academic-profiles/r.jayaratne), Research Fellow. School of Earth & Atmospheric Sciences, Queensland University of Technology. | ![](Rohan.JPG){width="180" height="auto"}              |
+    | Dr [Saeed Mohammadian](https://about.uq.edu.au/experts/31711), Research Fellow. School of Civil Engineering, the University of Queensland.                                                 | ![](Saeed.JPG){width="180" height="auto"} |
+    | Mr [Jiahao Zhang](https://civil.uq.edu.au/profile/5288/jiahao-zhang), PhD Scholar. School of Civil Engineering, the University of Queensland.                                              | ![](Jiahao.JPG){width="180" height="auto"}             |
 
 More to add.
